@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkssee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23393F4C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=simpleicons_javascript&logoColor=white"/>
 
 [![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee&hide=issues&count_private=true&show_icons=true)](https://github.com/kkssee)
 
