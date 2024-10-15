@@ -1,9 +1,6 @@
 ## Hi there 👋
-![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee)
 
-[![kkssee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkssee)](https://github.com/kkssee/github-readme-stats)
-
-[![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee)](https://github.com/kkssee/github-readme-stats)
+[![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee)](https://github.com/kkssee)
 <!--
 **kkssee/kkssee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
