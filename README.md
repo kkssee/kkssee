@@ -1,5 +1,5 @@
 ## Hi there 👋
-![kkssee's GitHub stats](https://vercel.live/link/github-readme-stats-kkssee.vercel.app/api?username=kkssee)
+![kkssee's GitHub stats](https://github-readme-stats-kkssee.vercel.app/api?username=kkssee)
 ![kkssee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkssee&show_icons=true)
 <!--
 **kkssee/kkssee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
