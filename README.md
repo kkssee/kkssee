@@ -4,9 +4,6 @@
 [![kkssee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkssee)](https://github.com/kkssee/github-readme-stats)
 
 [![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee)](https://github.com/kkssee/github-readme-stats)
-
-https://vercel.live/link/github-readme-stats-eta-pearl-29.vercel.app?via=project-dashboard-alias-list&p=1
-https://vercel.live/link/github-readme-stats-kkssees-projects.vercel.app?via=project-dashboard-alias-list&p=1
 <!--
 **kkssee/kkssee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
