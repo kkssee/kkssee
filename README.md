@@ -1,5 +1,5 @@
 ## Hi there 👋
-![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee)](https://github.com/kkssee)
+![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee)
 
 https://vercel.live/link/github-readme-stats-eta-pearl-29.vercel.app?via=project-dashboard-alias-list&p=1
 https://vercel.live/link/github-readme-stats-kkssees-projects.vercel.app?via=project-dashboard-alias-list&p=1
