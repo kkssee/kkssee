@@ -7,6 +7,9 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kkssee)](https://leetcode.com/kkssee)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkssee)](https://solved.ac/kkssee/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kkssee?theme=wtf&font=Cambay)](https://leetcode.com/kkssee)
+
 <!--
 **kkssee/kkssee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
