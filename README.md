@@ -4,6 +4,7 @@
 
 [![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee&hide=issues&count_private=true&show_icons=true)](https://github.com/kkssee)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkssee)](https://solved.ac/kkssee/)
 <!--
 **kkssee/kkssee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
