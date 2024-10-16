@@ -4,8 +4,6 @@
 
 [![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee&hide=issues&count_private=true&show_icons=true)](https://github.com/kkssee)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kkssee)](https://leetcode.com/kkssee)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkssee)](https://solved.ac/kkssee/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kkssee?theme=wtf&font=Cambay)](https://leetcode.com/kkssee)
