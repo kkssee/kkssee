@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 [![kkssee's GitHub stats](https://github-readme-stats-kkssees-projects.vercel.app/api?username=kkssee&hide=issues&count_private=true&show_icons=true)](https://github.com/kkssee)
@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkssee)](https://solved.ac/kkssee/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kkssee?theme=wtf&font=Cambay)](https://leetcode.com/kkssee)
-
+-->
 <!--
 **kkssee/kkssee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
